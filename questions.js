@@ -53,5 +53,61 @@ let questions = [
             "C. ArrayList",
             "D. LinkedHashMap"
         ]
+    },
+    {
+        numb: 6,
+        question: "What is the return type of the 'hashCode()' method in Java?",
+        answer: "C. int",
+        options: [
+            "A. long",
+            "B. void",
+            "C. int",
+            "D. double"
+        ]
+    },
+    {
+        numb: 7,
+        question: "Which keyword is used to prevent a class from being subclassed in Java?",
+        answer: "D. final",
+        options: [
+            "A. static",
+            "B. protected",
+            "C. abstract",
+            "D. final"
+        ]
+    },
+    {
+        numb: 8,
+        question: "What is the size of an 'int' data type in Java?",
+        answer: "A. 4 bytes",
+        options: [
+            "A. 4 bytes",
+            "B. 2 bytes",
+            "C. 8 bytes",
+            "D. 1 byte"
+        ]
+    },
+    {
+        numb: 9,
+        question: "Which of the following is used to read data from a file in Java?",
+        answer: "B. FileReader",
+        options: [
+            "A. FileWriter",
+            "B. FileReader",
+            "C. PrintWriter",
+            "D. BufferedOutputStream"
+        ]
+    },
+    {
+        numb: 10,
+        question: "What is the purpose of the 'super' keyword in Java?",
+        answer: "D. To refer to the parent class",
+        options: [
+            "A. To refer to the current class",
+            "B. To create an object",
+            "C. To refer to a local variable",
+            "D. To refer to the parent class"
+        ]
     }
+
 ];
